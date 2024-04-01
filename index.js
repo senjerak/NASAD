@@ -9,9 +9,19 @@ const SITES = [
   "https://belindabarrientos.github.io/belasworld/",
   "https://serenacurbelo.github.io/serenassite/",
   "https://bunnyfrills.github.io/DemonGirlandLittleBuddy/index.html",
+   "https://readymag.website/u2218263716/4624274/",
+  "https://nwsa.mdc.edu/visual-arts/",
+  "https://nwsa.mdc.edu/visual-arts/faculty/",
+  "https://www.nwsabfa23.com/index",
+  "https://vimeo.com/user199042402",
+  "https://nwsabfa2024.carrd.co/",
+  "https://www.nwsavisualartsbfa.com/virtual-gallery",
+  "https://www.artsteps.com/view/5eace80c16533f6fd0fc499c",
+  "https://nilaamairani.com/nwsa/",
+  "https://www.artsteps.com/view/65d768de4fd7529fe519c995",
 ];
 
-const DURATION = 1000 * 60 * 5; // 5 minutes
+const DURATION = 1000 * 60 * 1; // 5 minutes
 let timeout;
 let nextWebsiteTimestamp;
 let pausedRemainingDuration;
