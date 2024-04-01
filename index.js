@@ -13,7 +13,6 @@ const SITES = [
   "https://nwsa.mdc.edu/visual-arts/faculty/",
   "https://www.nwsabfa23.com/index",
   "https://www.nwsavisualartsbfa.com/virtual-gallery",
-  "https://nilaamairani.com/nwsa/",
 ];
 
 const DURATION = 1000 * 60; // 5 minutes
