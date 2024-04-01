@@ -9,7 +9,7 @@ const SITES = [
   "https://belindabarrientos.github.io/belasworld/",
   "https://serenacurbelo.github.io/serenassite/",
   "https://bunnyfrills.github.io/DemonGirlandLittleBuddy/index.html",
-   "https://readymag.website/u2218263716/4624274/",
+  "https://readymag.website/u2218263716/4624274/",
   "https://nwsa.mdc.edu/visual-arts/",
   "https://nwsa.mdc.edu/visual-arts/faculty/",
   "https://www.nwsabfa23.com/index",
