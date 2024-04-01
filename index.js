@@ -12,7 +12,6 @@ const SITES = [
   "https://nwsa.mdc.edu/visual-arts/",
   "https://nwsa.mdc.edu/visual-arts/faculty/",
   "https://www.nwsabfa23.com/index",
-  "https://nwsabfa2024.carrd.co/",
   "https://www.nwsavisualartsbfa.com/virtual-gallery",
   "https://nilaamairani.com/nwsa/",
 ];
