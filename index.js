@@ -35,7 +35,7 @@ function cycleWebsite(index = SITES.indexOf(frame.src)) {
   pausedRemainingDuration = 0;
   nextWebsiteTimestamp = Date.now() + DURATION;
   playButton.innerText = "pause";
-  timeout = setTimeout(cycleWebsite, DURATION);
+  timeout = setTimeout(() => cycleWebsite(index + 1 > SITES.length - 1 ? 0 : index + 1), DURATION);
 }
 
 function drawTimer() {
