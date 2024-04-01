@@ -21,7 +21,7 @@ const SITES = [
   "https://www.artsteps.com/view/65d768de4fd7529fe519c995",
 ];
 
-const DURATION = 1000 * 60 * 1; // 5 minutes
+const DURATION = 1000 * 60; // 5 minutes
 let timeout;
 let nextWebsiteTimestamp;
 let pausedRemainingDuration;
