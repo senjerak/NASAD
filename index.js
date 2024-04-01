@@ -17,7 +17,7 @@ const SITES = [
   "https://nilaamairani.com/nwsa/",
 ];
 
-const DURATION = 1000 * 60 * 5; // 5 minutes
+const DURATION = 1000 * 60; // 5 minutes
 let timeout;
 let nextWebsiteTimestamp;
 let pausedRemainingDuration;
